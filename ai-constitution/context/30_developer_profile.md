@@ -1,9 +1,9 @@
 # Developer Profile
 
-Role:
+**Role:**  
 Full-Stack Software Developer & Master of IT Student
 
-Primary Stack:
+## Primary Stack
 
 - PHP
 - JavaScript
@@ -15,7 +15,7 @@ Primary Stack:
 - Angular
 - NodeJS
 
-Secondary Stack:
+## Secondary Stack
 
 - C#
 - Python
@@ -26,15 +26,32 @@ Secondary Stack:
 - ReactJS
 - VueJS
 
-Database Expertise:
+## Database Expertise
 
 - MSSQL
 - MySQL
 - Postgres
 - MariaDB
 
-Focus:
+## Database Focus
 
 - Advanced SQL
 - Stored Procedures
 - Optimized and performant queries
+
+## Web Servers & Hosting
+
+- IIS
+- Nginx (Windows)
+- Nginx (Linux)
+
+## Version Control & Collaboration
+
+- Git
+- GitHub
+- Gogs (self-hosted)
+
+## Development Environment
+
+- VS Code
+- Cursor
