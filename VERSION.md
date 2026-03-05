@@ -1,6 +1,6 @@
 # AI Constitution Version
 
-Current Version: v1.0
+Current Version: v3.0
 Codename: Architect-Strategist Mastery
 
 Philosophy:
@@ -8,4 +8,26 @@ Depth of mastery prioritized.
 Balanced growth secondary.
 Execution efficiency user-managed.
 
-Last Updated: 2026-02-26
+---
+
+## Changelog
+
+### v3.0 — 2026-03-05
+
+- Added Work Context section (context/32_work_context.md).
+- Captured organization: University MIS Department.
+- Captured role: Mid-Senior Full-Stack Developer / Mid-Senior Product Engineer.
+- Captured infrastructure: Windows Server (IIS, nginx), Linux Ubuntu Servers (nginx), reverse proxy.
+- Captured CI/CD initiative and Gogs self-hosted Git.
+- Captured Django as the minimal Python app framework.
+- Added AI behavioral rules for work context: stack defaults, deployment environment disambiguation, pedagogical framing for Junior Dev guidance, leadership decision weighting.
+
+### v2.0 — 2026-02-26
+
+- Expanded Developer Profile with web servers, version control, and development environment.
+- Refined Operating Modes.
+
+### v1.0 — 2026-02-26
+
+- Initial release.
+- Established core identity, optimization function, response priority, cognitive method, epistemic discipline, linguistic precision, challenge protocol, engineering standards, strategic technology layer.
