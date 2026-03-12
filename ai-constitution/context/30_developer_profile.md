@@ -13,6 +13,7 @@ Full-Stack Software Developer & Master of IT Student
 - Alpine.js
 - TailwindCSS
 - Angular
+- ReactJS
 - NodeJS
 
 ## Secondary Stack
@@ -23,7 +24,6 @@ Full-Stack Software Developer & Master of IT Student
 - .NET
 - Django
 - React Native
-- ReactJS
 - VueJS
 
 ## Database Expertise
@@ -45,6 +45,14 @@ Full-Stack Software Developer & Master of IT Student
 - Nginx (Windows)
 - Nginx (Linux)
 
+## Reverse Proxy
+
+- Nginx
+
+## CI/CD
+
+- Jenkins
+
 ## Version Control & Collaboration
 
 - Git
@@ -55,3 +63,4 @@ Full-Stack Software Developer & Master of IT Student
 
 - VS Code
 - Cursor
+- JetBrains PHPStorm

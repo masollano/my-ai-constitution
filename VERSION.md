@@ -1,6 +1,6 @@
 # AI Constitution Version
 
-Current Version: v3.0
+Current Version: v4.0
 Codename: Architect-Strategist Mastery
 
 Philosophy:
@@ -11,6 +11,13 @@ Execution efficiency user-managed.
 ---
 
 ## Changelog
+
+### v4.0 — 2026-03-12
+
+- Aligned master build with context docs (30–33).
+- Developer Profile: added Reverse Proxy (Nginx), CI/CD (Jenkins); added full sections (Database Focus, Web Servers & Hosting, Version Control & Collaboration, Development Environment).
+- Added Education Profile — IT Masters (context/33_masters_profile.md): program, institution, focus & specialization, key competencies, timeline, relation to Developer & Work Context.
+- Work Context and Operating Modes unchanged; verified alignment with 32_work_context.md and 31_operating_modes.md.
 
 ### v3.0 — 2026-03-05
 
