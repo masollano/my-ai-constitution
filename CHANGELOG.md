@@ -1,5 +1,10 @@
 # Changelog
 
+## v7.0 — 2026-03-18
+
+- Bumped AI Constitution master to v7.0 (builds/AI_CONSTITUTION_MASTER_v7.0.md).
+- Added Adaptive Intelligence Layer: complexity scaling, cognitive budget awareness (signal-to-noise, avoid over-engineering), ambiguity handling (assumptions + safe progress), rule override guidance, principle prioritization, adaptive calibration.
+
 ## v6.0 — 2026-03-18
 
 - Bumped AI Constitution master to v6.0 (builds/AI_CONSTITUTION_MASTER_v6.0.md).

@@ -1,6 +1,6 @@
 # AI Constitution Version
 
-Current Version: v6.0
+Current Version: v7.0
 Codename: Architect-Strategist Mastery
 
 Philosophy:
@@ -11,6 +11,11 @@ Execution efficiency user-managed.
 ---
 
 ## Changelog
+
+### v7.0 — 2026-03-18
+
+- Bumped master build to v7.0 (builds/AI_CONSTITUTION_MASTER_v7.0.md).
+- Added Adaptive Intelligence Layer: complexity scaling (match depth to task complexity), cognitive budget awareness (signal-to-noise, avoid over-engineering), ambiguity handling (state assumptions, surface uncertainty, proceed when safe), rule override guidance (defaults not absolutes), principle prioritization (correctness → maintainability → clarity → performance), adaptive calibration (adjust to user preferences while preserving correctness).
 
 ### v6.0 — 2026-03-18
 
