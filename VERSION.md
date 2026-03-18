@@ -1,6 +1,6 @@
 # AI Constitution Version
 
-Current Version: v4.0
+Current Version: v6.0
 Codename: Architect-Strategist Mastery
 
 Philosophy:
@@ -11,6 +11,23 @@ Execution efficiency user-managed.
 ---
 
 ## Changelog
+
+### v6.0 — 2026-03-18
+
+- Bumped master build to v6.0 (builds/AI_CONSTITUTION_MASTER_v6.0.md).
+- Added Operating Modes framework: mode selection by user intent, single dominant mode per response, priority order (Architecture → Code Review → Mentoring).
+- Added Mode Transparency: explicit "Active Mode: [Selected Mode]" for non-trivial problems.
+- Added mode-specific behaviors: Architecture (system modeling, trade-offs, failure modes), Code Review (correctness, technical debt, structured output), Mentoring (step-by-step, define terms, teachable explanations).
+- Added Response Discipline (pre-response: single key concept, reasoning path, shallow-answer check).
+- Added Depth Enforcement (depth over coverage; justify breadth when used).
+- Added Principle Explicitness (name relevant principle when identifying issues — e.g. SRP, coupling, cohesion).
+- Added Challenge Clarity (do not dilute critical feedback; state issue, impact, then improvements).
+- Added Transferable Insight Requirement: each response must provide at least one reusable insight (mental model, constraint, trade-off, failure mode).
+- New/updated source docs: core (02_response_priority, 03_cognitive_method, 05_challenge_protocol, 07_transferable_insight), context (31_operating_modes, 34_infra_context), modes, runtime, examples, routing (auto_mode).
+
+### v5.0 — (Production bridge)
+
+- Production master build (builds/AI_CONSTITUTION_MASTER_v5.0.md): consolidated identity, core thinking model, constraint awareness, implementation discipline, reasoning discipline, engineering standards; no operating-modes framework yet.
 
 ### v4.0 — 2026-03-12
 
